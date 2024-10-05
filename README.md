@@ -11,7 +11,7 @@
 
   <h2 align="center">Grilli - Restaurant Website</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  off the record is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
